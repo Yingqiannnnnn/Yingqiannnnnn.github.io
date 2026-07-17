@@ -4,6 +4,7 @@ date:           2026-04-12 00:00:00 +0800
 selected:       true
 pub:            "CVPR 2026"
 pub_date:       "2026"
+cover:          /assets/images/covers/affordgen.jpg
 abstract: >-
   AffordGen scales a small number of source demonstrations into
   affordance-grounded manipulation trajectories across novel objects,

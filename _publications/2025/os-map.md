@@ -4,6 +4,7 @@ date:           2025-07-25 00:00:00 +0800
 selected:       true
 pub:            "ICML 2025 Workshop on Computer Use Agents (WCUA), Poster"
 pub_date:       "2025"
+cover:          /assets/images/covers/os-map.jpg
 abstract: >-
   OS-MAP is a benchmark for computer-using agents that organizes 416
   realistic tasks across 15 desktop applications by automation level and
